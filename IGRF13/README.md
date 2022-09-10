@@ -1,6 +1,8 @@
 # IGRF
 计算地球非偶极子场
 
+大部分内容参考师兄JintaoLee-Roger的库，但环境版本、所用的高斯系数都有不同，且在借用代码的同时添加了保姆级注释，也是在学习过程中做一个记录。
+
 > 若无法查看公式，请安装 [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima) 插件 或者 [TeX All the Things](https://chrome.google.com/webstore/detail/tex-all-the-things/cbimabofgmfdkicghcadidpemeenbffn) 插件
 
 ## CONTENTS
